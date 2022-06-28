@@ -1,4 +1,3 @@
-
 from flask import Flask
 
 app = Flask("JayWebApp")
@@ -6,4 +5,4 @@ app = Flask("JayWebApp")
 
 @app.route('/')
 def hello():
-    return 'Love'
+    return 'Something Light'
