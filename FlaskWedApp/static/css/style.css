@@ -1,0 +1,10 @@
+.bg_pastel_blue {
+	--bg: #82c8e2;
+	background-color: #82c8e2;
+}
+
+.testshape {
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	background-color: darkslateblue;
+}
