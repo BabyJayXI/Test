@@ -4,7 +4,7 @@
 }
 
 .testshape {
-	border-top-left-radius: 50px;
-	border-bottom-right-radius: 50px;
-	background-color: darkslateblue;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	background-color: darkgray;
 }
